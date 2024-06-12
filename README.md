@@ -30,4 +30,7 @@
 <img width="580" alt="비속어2" src="https://github.com/inuuuuuuu/JSP/assets/127916221/7a3b3ba0-d763-4a06-939f-3a2a7463db55">
 
 ### 24/04/17 7주차
--팝업페이지 추가 구현(시간 설정), 
+-팝업페이지 추가 구현(시간 설정), 로그인 화면 구현, 로그아웃 화면 구현
+[login.html,logout.html]
+<img width="431" alt="로그인" src="https://github.com/inuuuuuuu/JSP/assets/127916221/806aa1db-3d07-455a-98f6-c0b1213aa26b">
+
