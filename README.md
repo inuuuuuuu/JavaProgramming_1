@@ -45,5 +45,12 @@
 
 ![image](https://github.com/inuuuuuuu/JSP/assets/127916221/36e7641d-60c7-426e-9ab4-a605d607c915)
 
+### 24/05/08 10주차
+- 팝업창 쿠키 저장, 팝업창 체크 박스 구현, 로그인 페이지 아이디 저장 구현
+[popup.js, login.html]
+
+![image](https://github.com/inuuuuuuu/JSP/assets/127916221/20c2d6ff-9e3a-42fd-bee6-10831f6b5e12)
+
+![image](https://github.com/inuuuuuuu/JSP/assets/127916221/0e2e4727-3965-45ac-b34c-21f47751c5ec)
 
 
