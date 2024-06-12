@@ -40,4 +40,9 @@
 
   ![image](https://github.com/inuuuuuuu/JSP/assets/127916221/84b2c719-ecc1-42fa-b80b-cb8b107b5a13)
 
+- 응용문제 추가 구현
+[로그인 입력 길이 제한 : 이메일 10글자 이하, 패스워드 15글자 이하 수정,로그인 입력 패턴 제한]
+
+![image](https://github.com/inuuuuuuu/JSP/assets/127916221/36e7641d-60c7-426e-9ab4-a605d607c915)
+
 
