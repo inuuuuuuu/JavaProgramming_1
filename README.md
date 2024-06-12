@@ -22,6 +22,8 @@
 [popup.html,pop_up.js 작성]
 
 <img width="317" alt="팝업" src="https://github.com/inuuuuuuu/JSP/assets/127916221/43968178-4ad1-4a76-ba4c-2b8ee8c4abf7">
+
+
 -추가구현
 [검색 창에 문자열을 검사한다. - 검사할 항목 : 공백, 비속어 5개 / 공백 검사 문자 길이가 0이면 함수 중단, 비속어 검사]
 <img width="580" alt="비속어2" src="https://github.com/inuuuuuuu/JSP/assets/127916221/7a3b3ba0-d763-4a06-939f-3a2a7463db55">
