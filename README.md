@@ -33,4 +33,10 @@
 -팝업페이지 추가 구현(시간 설정), 로그인 화면 구현, 로그아웃 화면 구현
 [login.html,logout.html]
 <img width="431" alt="로그인" src="https://github.com/inuuuuuuu/JSP/assets/127916221/806aa1db-3d07-455a-98f6-c0b1213aa26b">
+-응용문제 : 로그아웃 버튼 기능 구현(메인화면으로 이동)
+
+### 24/04/24 8주차
+- 로그인 폼(길이 제한 특수 문자,XSS방지)구현
+  ![image](https://github.com/inuuuuuuu/JSP/assets/127916221/84b2c719-ecc1-42fa-b80b-cb8b107b5a13)
+
 
