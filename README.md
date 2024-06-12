@@ -53,4 +53,12 @@
 
 ![image](https://github.com/inuuuuuuu/JSP/assets/127916221/0e2e4727-3965-45ac-b34c-21f47751c5ec)
 
+### 24/05/22 12주차
+- 로그인 세션 저장 구현, 로그인 시간 유지 구현 완료 logout_timer.js 참고
+
+### 24/05/29 14주차
+- 자바스크립트 분리, 회원가입 페이지 구현
+[search.js, security.js, session.js, index_join.html]
+
+<img width="697" alt="회원가입완료" src="https://github.com/inuuuuuuu/JSP/assets/127916221/232fb808-d7f1-474d-a3de-c174bf256d5f">
 
