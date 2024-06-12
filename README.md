@@ -4,15 +4,18 @@
 -프로젝트 환경 설정
 -롤 메인 페이지 [index.html 실행/수정 완료]
 
+
 ### 24/03/20 3주차
 -롤 메인 페이지 추가 수정
 [table작성, 부트 스트랩-네비게이션바 작성]
 <img width="944" alt="mainpage" src="https://github.com/inuuuuuuu/JSP/assets/127916221/7b0b258d-382e-4c78-88da-d2fc909bbf30">
 
+
 ### 24/03/27 4주차
 -롤 메인 페이지 추가 수정, 자바스크립트 추가
 [검색창 기능 및 메시지 창 기능 확인]
 <img width="380" alt="검색" src="https://github.com/inuuuuuuu/JSP/assets/127916221/913c5021-9f4d-4f54-b883-c14191d6f626">
+
 
 ### 24/04/03 5주차
 -롤 메인 페이지 추가 수정, 팝업 페이지 추가 구현, 이미지 호버
