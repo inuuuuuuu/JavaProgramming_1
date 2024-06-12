@@ -60,5 +60,7 @@
 - 자바스크립트 분리, 회원가입 페이지 구현
 [search.js, security.js, session.js, index_join.html]
 
+<img width="411" alt="회원가입창" src="https://github.com/inuuuuuuu/JSP/assets/127916221/6b8d320f-1efd-4331-a472-f0b13912ac85">
+
 <img width="697" alt="회원가입완료" src="https://github.com/inuuuuuuu/JSP/assets/127916221/232fb808-d7f1-474d-a3de-c174bf256d5f">
 
