@@ -56,7 +56,7 @@
 ### 24/05/22 12주차
 - 로그인 세션 저장 구현, 로그인 시간 유지 구현 완료 logout_timer.js 참고
 
-### 24/05/29 14주차
+### 24/06/05 14주차
 - 자바스크립트 분리, 회원가입 페이지 구현
 [search.js, security.js, session.js, index_join.html]
 
@@ -64,3 +64,9 @@
 
 <img width="697" alt="회원가입완료" src="https://github.com/inuuuuuuu/JSP/assets/127916221/232fb808-d7f1-474d-a3de-c174bf256d5f">
 
+### 24/06/08 보강주차
+- 프로필 페이지, 지도 API 구현
+- 개인 프로필용 정보 추가 완료, 로그인된 페이지 접근 제한하기 구현 완료 로그인 하지 않은 상태에서 profile.html에 접근하면 로그인이 필요하다는 안내가 뜨고, login.html로 이동
+  유튜브 영상 삽입, 배경 음악 및 프로필 사진 삽입
+
+<img width="652" alt="프로필 지도추가" src="https://github.com/inuuuuuuu/JSP/assets/127916221/0fa9063e-5d1f-4e85-9d23-8d7faacc65ab">
